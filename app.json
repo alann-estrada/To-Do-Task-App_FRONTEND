@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "client",
-    "slug": "client",
+    "name": "To-Do-Task",
+    "slug": "To-Do-Task",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
